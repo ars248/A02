@@ -324,8 +324,8 @@ Github
 - **Github** — the platform that allows Git work to be stored in repositories where they can be managed. 
 - **Merge** — Combines changes from different branches.
 - **Merge Conflict** — Refers to a situation where Git cannot automatically combine changes from different branches.
-- **Push** — Command that sends local commits to a remote repository.
-- **Pull** — Command that retrieves changes from a remote repository and integrates them into the current branch.
+- **Push** — Sends local commits to a remote repository.
+- **Pull** — Retrieves changes from a remote repository and integrates them into the current branch.
 - **Remote** — A connection to a repository stored somewhere other than the local computer, such as Github.
 - **Repository** — A project location containing files and the history of changes; can be tracked by Git.
 
